@@ -8,15 +8,19 @@ import "./assets/img/4geeks.ico";
 window.onload = function() {
   //write your code here
 
-  const who = ["The dog", "My grandma", "The mailman", "My bird"];
-  const action = ["ate", "peed", "crushed", "broke"];
-  const what = ["my homework", "my phone", "the car"];
+  const who = ["My cat", "My friend", "The cleaner", "The software"];
+  const action = ["erased", "corrupted", "overlooked", "sabotaged"];
+  const what = [
+    "the presentation",
+    "the slides",
+    "the visuals",
+    "the handouts"
+  ];
   const when = [
-    "before the class",
-    "when I was sleeping",
-    "while I was exercising",
-    "during my lunch",
-    "while I was praying"
+    "during the storm",
+    "amidst the power outage",
+    "in the middle of maintenance",
+    "while I was distracted"
   ];
 
   // Desarrollo de la solución
